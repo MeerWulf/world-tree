@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import styled from 'styled-components';
 
-const initialForm = {
+/*const initialForm = {
     name: "",
     availability: 0,
     characterName: "",
@@ -12,7 +12,7 @@ const initialForm = {
     timeframes: "",
     notes: "",
 }
-
+*/
 const Display = (props) => {
     useEffect (() => {
     }, [])
